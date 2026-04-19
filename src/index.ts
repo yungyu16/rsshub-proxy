@@ -1,7 +1,6 @@
 // 公共 RSSHub 实例列表，随机轮询
 const PROXY_LIST = [
-	"https://rsshub.app",
-	"https://rss.shab.fun",
+	// "https://rsshub.app",
 	"https://rsshub.rssforever.com",
 ];
 
