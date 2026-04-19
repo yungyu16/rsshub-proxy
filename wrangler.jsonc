@@ -4,7 +4,7 @@
  */
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "curly-king-e1fd",
+	"name": "rsshub-proxy",
 	"main": "src/index.ts",
 	"compatibility_date": "2026-04-19",
 	"observability": {
